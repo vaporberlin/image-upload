@@ -48,7 +48,7 @@ final class UserController {
     /// check whether directory already exists
     if !fileManager.fileExists(atPath: userDir.path) {
       /// create directory
-      try fileManager.createDirectory(at: userDir, withIntermediateDirectories: false, attributes: nil)
+      try fileManager.createDirectory(at: userDir, withIntermediateDirectories: true, attributes: nil)
     }
     
     let userDirWithImage = userDir.appendingPathComponent(filename)
