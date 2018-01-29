@@ -1,9 +1,9 @@
 <p align="center">
-  <h2>My First Controller 👨🏼‍💻 </h2>
+  <h2>Image Upload 👨🏼‍💻 </h2>
   <h3>Tutorial to build this project</h3>
-  <h4><a href="https://medium.com/@martinlasek/how-to-write-controller-4efd9ea148e4">How to write Controllers</a></h4>
+  <h4><a href="">How to implement Image-Upload</a></h4>
   <br>
-  <img width="100%" src="my-first-controller.png" alt="screenshot">
+  <img width="100%" src="image-upload.png" alt="screenshot">
 </p>
 
 ## Community 🚀
