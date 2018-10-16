@@ -1,7 +1,7 @@
 import Foundation
 
 final class UserController {
-    // view with users
+//     view with users
     func list(_ req: Request) throws -> Future<View> {
         return User.query(on: req).all().flatMap { users in
             let data = ["userlist": users]
