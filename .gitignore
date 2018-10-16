@@ -15,3 +15,6 @@ DerivedData/
 # End of https://www.gitignore.io/api/vapor
 
 images/*
+
+Package.resolved
+
